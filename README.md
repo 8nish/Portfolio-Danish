@@ -2,8 +2,6 @@
 
 A modern, responsive developer portfolio built with **React** and **TailwindCSS**.
 
-![Portfolio Banner](./banner.png)
-
 ## 🚀 About
 
 This is my personal portfolio website showcasing my work as a Security & Automation Engineer, GRC Specialist, and Python Developer.  
